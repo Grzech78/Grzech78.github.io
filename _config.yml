@@ -5,10 +5,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   Logistics specialist with SAP knowledge, with inclination for Data Analysis topics.
   <br> 
   <br> 
-  Power BI, DAX, VBA, M - SQL & Python planned
+  Power BI, DAX, Power Query, Excel, VBA
+  <br> 
+  M - SQL & Python planned
   <br> 
   <br> 
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/grzegorz-gardocki-18947b26b/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
