@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [LOGISTICS SEARCHENGINGE DASHBOARD](/log_seach_dash.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="LPB_1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
