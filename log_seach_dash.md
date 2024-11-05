@@ -1,6 +1,7 @@
 ## LOGISTICS SEARCHENGINE DASHBOARD
 
 **Project description:** 
+
 **At the market customers use and are aware only about market references derived from official Excel pricelist. However behind these market references exist internal references that may vary from market reference due to a product version or evolution, slight technical modifications, various assembly plants etc. Thus when a customer place an order, for example for offical material reference "child_bike_18_GR" it has to be translated by special SAP substitution table into "child_bike_18_GR_ver1" which is active for production, sales and so on.
 Additionally every market reference may have several internal references with their:
 1. product life cycle - design phase, active phase, withdrawal phase, deletion phase and so on (SAP distribution-chain-specific material status)
