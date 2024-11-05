@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/LOG_SEARCH_DASHB)
+[Project 1 Title](/log_seach_dash)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
