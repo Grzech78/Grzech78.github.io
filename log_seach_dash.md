@@ -3,13 +3,22 @@
 **Project description:** At the market customers use and are aware only about market references derived from official Excel pricelist. However behind these market references exist internal references that may vary from market reference due to a product version or evolution, slight technical modifications, various assembly plants etc. Thus when a customer place an order, for example for offical material reference "child_bike_18_GR" it has to be translated by special SAP substitution table into "child_bike_18_GR_ver1" which is active for production, sales and so on.
 Additionally every market reference may have several internal references with their:
 1. product life cycle - design phase, active phase, withdrawal phase, deletion phase and so on (SAP distribution-chain-specific material status)
-2. main distribution plant 
+2. main distribution warehouse 
 3. inventory planner who responsible for avaiability of internal reference for local market
 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. MAIN OBJECTIVES FOR TOOL:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+to prompt various internal customers as:
+   - Customer Service Team
+   - Product Managament Team
+   - Sales Team
+   - Technical Support Team
+1. current active valid internal reference
+2. return current SAP distribution-chain-specific material status with graphic explanation providing clear visibility if reference can be ordered
+3. return current main distribution warehouse
+4. return current inventory planner responsible for internal reference
+
 
 ```javascript
 if (isAwesome){
