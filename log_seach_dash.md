@@ -1,5 +1,6 @@
 ## LOGISTICS SEARCHENGINE DASHBOARD
 <img src="/LPB_1_EN.png?raw=true"/>
+<img src="/SCHEME.png?raw=true"/>
 Project description:
 
 At the market customers use and are aware only about market references derived from official Excel pricelist. However behind these market references exist internal references that may vary from market reference due to a product version or evolution, slight technical modifications, various assembly plants etc. Thus when a customer place an order, for example for offical material reference "child_bike_18_GR" it has to be translated by special SAP substitution table into "child_bike_18_GR_ver1" which is active for production, sales and so on.
