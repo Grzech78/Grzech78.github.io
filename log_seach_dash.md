@@ -11,16 +11,33 @@ Additionally every market reference may have several internal references with th
 
 ### 1. MAIN OBJECTIVES FOR TOOL:
 
-to prompt various internal customers as:
-   - Customer Service Team
-   - Product Managament Team
-   - Sales Team
-   - Technical Support Team
-     
+to prompt mentioned below:
+
 1. current active valid internal reference
 2. return current SAP distribution-chain-specific material status with graphic explanation providing clear visibility if reference can be ordered
 3. return current main distribution warehouse
 4. return current inventory planner responsible for internal reference
+
+### 2. MAIN TOOL'S RECEIVER:
+
+1. Customer Service Team
+2. Product Managament Team
+3. Sales Team
+4. Technical Support Team
+     
+### 3.  TOOLS/APPLICATION USED:
+
+1. SAP S/4 HANA
+2. POWER BI
+3. POWER QUERY
+4. EXCEL
+5. VBA
+
+### 4.  FILES' FORMAT USED
+
+1. .XLSB
+2. .TXT
+3. .PBIX
 
 
 ```javascript
