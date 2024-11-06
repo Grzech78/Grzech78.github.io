@@ -5,7 +5,7 @@
 ### LOGISTICS SEARCHENGINE DASHBOARD
 
 [LOGISTICS SEARCHENGINE DASHBOARD](/log_seach_dash.md)
-<img src="LPB_1.png?raw=true"/>
+<img src="LPB_1_EN.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
