@@ -39,7 +39,7 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="LPB_1.pngraw=true"/>
+<img src="/LPB_1.png?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
