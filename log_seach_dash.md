@@ -16,6 +16,7 @@ to prompt various internal customers as:
    - Product Managament Team
    - Sales Team
    - Technical Support Team
+     
 1. current active valid internal reference
 2. return current SAP distribution-chain-specific material status with graphic explanation providing clear visibility if reference can be ordered
 3. return current main distribution warehouse
