@@ -1,6 +1,6 @@
 ## LOGISTICS SEARCHENGINE DASHBOARD
-[Watch the video]([Grzech78/main/mov.mp4](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/mov.mp4)
-[![Watch the video]
+[Watch the video]
+https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/mov.mp4
 
 <img src="/LPB_1_EN.png?raw=true"/>
 <img src="/SCHEME.png?raw=true"/>
