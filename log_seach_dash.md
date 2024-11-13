@@ -1,6 +1,7 @@
 ## LOGISTICS SEARCHENGINE DASHBOARD
-<img src="/LPB_1_EN.png?raw=true"/>
+(https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 <img src="/mov.mp4?raw=true"/>
+<img src="/LPB_1_EN.png?raw=true"/>
 <img src="/SCHEME.png?raw=true"/>
 <img src="/LPB_2_EN.png?raw=true"/>
 Project description:
