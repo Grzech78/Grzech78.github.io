@@ -2,7 +2,7 @@
 
 DOWNLOAD MOVIE - LINK AT THE BOTTOM
 
-[![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN_small.png)]
+![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN_small.png)
 
 Project description:
 
@@ -58,7 +58,6 @@ MODEL SCHEME
 3. .PBIX
 
 
-[![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN_small.png)]
-(https://raw.githubusercontent.com//Grzech78/Grzech78.github.io/main/mov.mp4)
+![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN_small.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
