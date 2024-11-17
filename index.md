@@ -8,8 +8,8 @@
 <img src="LPB_1_EN.png?raw=true"/>
 
 ---
-[KPI - INVENTRORY COVERAGE IN WEEKS AND INVENTRORY VALUE](/coverage.md)
-<img src="KPI_COVERAGE_1.png?raw=true"/>
+[KPI - INVENTRORY COVERAGE IN WEEKS AND INVENTRORY VALUE](KPI_COVERAGE/coverage.md)
+<img src="KPI_COVERAGE/KPI_COVERAGE_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
