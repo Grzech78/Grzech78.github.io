@@ -10,7 +10,7 @@
 ---
 ### KPI - COVERAGE IN WEEKS, STOCK VALUE
 [KPI - INVENTRORY COVERAGE IN WEEKS AND INVENTRORY VALUE](/KPI_COVERAGE/coverage.md)
-<img src="/KPI_COVERAGE/KPI_COVERAGE_1.png?raw=true"/>
+<img src="/KPI_COVERAGE/KPI_COV_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
