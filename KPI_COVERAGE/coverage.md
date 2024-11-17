@@ -1,5 +1,5 @@
 ## KPI - COVERAGE IN WEEKS, STOCK VALUE
-
+<img src="/KPI_COVERAGE/KPI_COV_1.png?raw=true"/>
 Project description:
 
 
