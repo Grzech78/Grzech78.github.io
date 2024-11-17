@@ -1,33 +1,33 @@
 ## LOGISTICS SEARCHENGINE DASHBOARD
 
-DOWNLOAD MOVIE:
-
-[![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN_small.png)](https://raw.githubusercontent.com//Grzech78/Grzech78.github.io/main/mov.mp4)
-
-<img src="/LPB_1_EN.png?raw=true"/>
-<img src="/LPB_2_EN.png?raw=true"/>
-<img src="/LPB_3_EN.png?raw=true"/>
-<img src="/LPB_4_EN.png?raw=true"/>
-<img src="/LPB_5_EN.png?raw=true"/>
-<img src="/SCHEME.png?raw=true"/>
+DOWNLOAD MOVIE - LINK AT THE BOTTOM
+[![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN_small.png)]
 
 Project description:
 
-At the market customers use and are aware only about market references derived from official Excel pricelist. However behind these market references exist internal references that may vary from market reference due to a product version or evolution, slight technical modifications, various assembly plants etc. Thus when a customer place an order, for example for offical material reference "child_bike_18_GR" it has to be translated by special SAP substitution table into "child_bike_18_GR_ver1" which is active for production, sales and so on.
+At the market customers use and are aware about market references only, derived from official Excel pricelist. However behind these market references exist internal references that may vary from market reference due to a product version or evolution, slight technical modifications, various assembly plants etc. Thus when a customer place an order, for example for offical material reference "child_bike_18_GR" it has to be translated by special SAP substitution table into "child_bike_18_GR_ver1" which is active for production, sales and so on.
 Additionally every market reference may have several internal references with their:
 1. product life cycle - design phase, active phase, withdrawal phase, deletion phase and so on (SAP distribution-chain-specific material status)
 2. main distribution warehouse 
 3. inventory planner who responsible for avaiability of internal reference for local market
 
-
 ### 1. MAIN OBJECTIVES FOR TOOL:
 
-to prompt mentioned below:
+in few dashboards of POWER BI based mainly on TXT files downloaded from SAP S/4 (update triggered by VBA code):
 
-1. current active valid internal reference
+1. return active valid internal reference
 2. return current SAP distribution-chain-specific material status with graphic explanation providing clear visibility if reference can be ordered
 3. return current main distribution warehouse
 4. return current inventory planner responsible for internal reference
+
+DASHBORDS RETURNING ACTIVE INTERNAL REFERENCES, SALES STATUS, INVENTORY PLANNER AND MAIN DISTRIBUTION WAREHOUSE:
+<img src="/LPB_1_EN.png?raw=true"/>
+<img src="/LPB_2_EN.png?raw=true"/>
+<img src="/LPB_3_EN.png?raw=true"/>
+<img src="/LPB_4_EN.png?raw=true"/>
+
+DASHBOARDS RETURNING GENERAL OVERVIEW OF SALES STATUSES
+<img src="/LPB_5_EN.png?raw=true"/>
 
 ### 2. MAIN TOOL'S RECEIVER:
 
@@ -45,11 +45,14 @@ to prompt mentioned below:
 5. VBA
 6. ABAP
 
-### 4.  FILES' FORMAT USED
+### 4.  FILE'S TYPES USED
 
 1. .XLSB
 2. .TXT
 3. .PBIX
 
+<img src="/SCHEME.png?raw=true"/>
+
+(https://raw.githubusercontent.com//Grzech78/Grzech78.github.io/main/mov.mp4)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
