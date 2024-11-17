@@ -17,7 +17,7 @@ Additionally every market reference may have several internal references with th
 in few dashboards of POWER BI based mainly on TXT files downloaded from SAP S/4 (update triggered by VBA code):
 
 1. return active valid internal reference
-2. return current SAP distribution-chain-specific material status with graphic explanation providing clear visibility if reference can be ordered
+2. return current SAP distribution-chain-specific material status with graphic explanation providing clear visibility if reference can be ordered (with        dynamic TOOLTIP)
 3. return current main distribution warehouse
 4. return current inventory planner responsible for internal reference
 
