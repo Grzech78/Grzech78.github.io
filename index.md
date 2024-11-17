@@ -9,7 +9,7 @@
 
 ---
 [KPI - INVENTRORY COVERAGE IN WEEKS AND INVENTRORY VALUE](/coverage.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="KPI_COVERAGE_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
