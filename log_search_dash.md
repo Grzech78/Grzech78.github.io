@@ -2,7 +2,7 @@
 
 DOWNLOAD MOVIE - LINK AT THE BOTTOM
 
-![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN_small.png)
+![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN.png)
 
 Project description:
 
