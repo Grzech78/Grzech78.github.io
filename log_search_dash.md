@@ -1,6 +1,7 @@
 ## LOGISTICS SEARCHENGINE DASHBOARD
 
 DOWNLOAD MOVIE - LINK AT THE BOTTOM
+
 [![Watch the video](https://raw.githubusercontent.com/Grzech78/Grzech78.github.io/main/LPB_1_EN_small.png)]
 
 Project description:
@@ -24,10 +25,15 @@ DASHBORDS RETURNING ACTIVE INTERNAL REFERENCES, SALES STATUS, INVENTORY PLANNER 
 <img src="/LPB_1_EN.png?raw=true"/>
 <img src="/LPB_2_EN.png?raw=true"/>
 <img src="/LPB_3_EN.png?raw=true"/>
-<img src="/LPB_4_EN.png?raw=true"/>
 
 DASHBOARDS RETURNING GENERAL OVERVIEW OF SALES STATUSES
+<img src="/LPB_4_EN.png?raw=true"/>
+
+MODEL VIEW OF POWER BI.PBIX
 <img src="/LPB_5_EN.png?raw=true"/>
+
+MODEL SCHEME
+<img src="/SCHEME.png?raw=true"/>
 
 ### 2. MAIN TOOL'S RECEIVER:
 
@@ -51,7 +57,7 @@ DASHBOARDS RETURNING GENERAL OVERVIEW OF SALES STATUSES
 2. .TXT
 3. .PBIX
 
-<img src="/SCHEME.png?raw=true"/>
+
 
 (https://raw.githubusercontent.com//Grzech78/Grzech78.github.io/main/mov.mp4)
 
