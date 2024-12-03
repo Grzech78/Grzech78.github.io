@@ -21,7 +21,7 @@ Very simple visualtions focus on two main KPIs - value of inventory and coverage
 <img src="/KPI_COVERAGE/KPI_COV_5.png?raw=true"/>
 
 3. to present quality of stock: to put it simply: comparison of shares of deadstock vs. fast moving goods (and something between them)
-<img src="/KPI_COVERAGE/KPI_COV_5.png?raw=true"/>
+<img src="/KPI_COVERAGE/KPI_COV_4.png?raw=true"/>
 
 ### 2. MAIN TOOL'S RECEIVER:
 
