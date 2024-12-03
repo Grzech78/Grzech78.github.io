@@ -34,6 +34,13 @@ Very simple visualtions focus on two main KPIs - value of inventory and coverage
 2. POWER BI
 3. POWER QUERY
 4. EXCEL
+5. VBA
+
+Beginning of every month from SAP S/4 are downloaded HANA data as such:
+1. current stock value
+2. Usage value for last 12 months
+for every material in chosen plants (with planners and suppliers accordingly). Then - through Power Query - data are presented on dashords.
+Certainly every months data are added to main Excel data base.
 
 ### 4.  FILE'S TYPES USED
 
