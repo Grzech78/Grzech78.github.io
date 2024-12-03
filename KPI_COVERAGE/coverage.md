@@ -36,6 +36,7 @@ Very simple visualtions focus on two main KPIs - value of inventory and coverage
 4. EXCEL
 5. VBA
 
+Process and scheme of preparing:
 Beginning of every month from SAP S/4 are downloaded HANA data as such:
 1. current stock value
 2. Usage value for last 12 months
