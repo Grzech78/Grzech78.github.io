@@ -25,15 +25,20 @@ Very simple visualtions focus on two main KPIs - value of inventory and coverage
 
 ### 2. MAIN TOOL'S RECEIVER:
 
--
+1. Inventory Planners
+2. Inventory Manager
      
 ### 3.  TOOLS/APPLICATION USED:
 
--
+1. SAP S/4 HANA
+2. POWER BI
+3. POWER QUERY
+4. EXCEL
 
 ### 4.  FILE'S TYPES USED
 
--
+1. .XLSB
+2. .PBIX
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
