@@ -40,8 +40,8 @@ Process and scheme of preparing:
 Beginning of every month from SAP S/4 are downloaded HANA data as such:
 1. current stock value
 2. Usage value for last 12 months
-for every material in chosen plants (with planners and suppliers accordingly). Then - through Power Query - data are presented on dashords.
-After data cleansing process data are added to main Excel data base.
+for every material in chosen plants (with planners and suppliers accordingly). Then - through Power Query - data are presented on dashbords.
+After data cleansing process downloaded output is added to main Excel data base.
 
 MODEL SCHEME:
 <img src="/KPI_COVERAGE/KPI_COV-SCHEME.png?raw=true"/>
