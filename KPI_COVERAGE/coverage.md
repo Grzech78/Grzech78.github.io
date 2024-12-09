@@ -48,6 +48,8 @@ Certainly every months data are added to main Excel data base.
 1. .XLSB
 2. .PBIX
 
+MODEL SCHEME:
+<img src="/KPI_COVERAGE/KPI_COV_SCHEME.png?raw=true"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
