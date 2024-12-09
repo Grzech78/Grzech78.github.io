@@ -41,15 +41,16 @@ Beginning of every month from SAP S/4 are downloaded HANA data as such:
 1. current stock value
 2. Usage value for last 12 months
 for every material in chosen plants (with planners and suppliers accordingly). Then - through Power Query - data are presented on dashords.
-Certainly every months data are added to main Excel data base.
+After data cleansing process data are added to main Excel data base.
 
+MODEL SCHEME:
+<img src="/KPI_COVERAGE/KPI_COV-SCHEME.png?raw=true"/>
 ### 4.  FILE'S TYPES USED
 
 1. .XLSB
 2. .PBIX
 
-MODEL SCHEME:
-<img src="/KPI_COVERAGE/KPI_COV_SCHEME.png?raw=true"/>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
